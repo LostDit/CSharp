@@ -1,0 +1,7 @@
+C:\Lab_C#\C#\Exampl_5\bin\Debug\Exampl_5.exe.config
+C:\Lab_C#\C#\Exampl_5\bin\Debug\Exampl_5.exe
+C:\Lab_C#\C#\Exampl_5\bin\Debug\Exampl_5.pdb
+C:\Lab_C#\C#\Exampl_5\obj\Debug\Exmpl_5.csproj.AssemblyReference.cache
+C:\Lab_C#\C#\Exampl_5\obj\Debug\Exmpl_5.csproj.CoreCompileInputs.cache
+C:\Lab_C#\C#\Exampl_5\obj\Debug\Exampl_5.exe
+C:\Lab_C#\C#\Exampl_5\obj\Debug\Exampl_5.pdb

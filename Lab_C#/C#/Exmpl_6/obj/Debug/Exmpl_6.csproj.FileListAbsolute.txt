@@ -1,0 +1,14 @@
+C:\Lab_C#\C#\Exmpl_6\bin\Debug\Exmpl_6.exe.config
+C:\Lab_C#\C#\Exmpl_6\bin\Debug\Exmpl_6.exe
+C:\Lab_C#\C#\Exmpl_6\bin\Debug\Exmpl_6.pdb
+C:\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.csproj.AssemblyReference.cache
+C:\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.csproj.CoreCompileInputs.cache
+C:\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.exe
+C:\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.pdb
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_6\bin\Debug\Exmpl_6.exe.config
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_6\bin\Debug\Exmpl_6.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_6\bin\Debug\Exmpl_6.pdb
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_6\obj\Debug\Exmpl_6.pdb

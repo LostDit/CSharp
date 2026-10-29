@@ -1,0 +1,7 @@
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_10\bin\Debug\Exmpl_10.exe.config
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_10\bin\Debug\Exmpl_10.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_10\bin\Debug\Exmpl_10.pdb
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_10\obj\Debug\Exmpl_10.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_10\obj\Debug\Exmpl_10.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_10\obj\Debug\Exmpl_10.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_10\obj\Debug\Exmpl_10.pdb

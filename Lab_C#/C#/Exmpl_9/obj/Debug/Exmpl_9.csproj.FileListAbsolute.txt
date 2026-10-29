@@ -1,0 +1,7 @@
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_9\bin\Debug\Exmpl_9.exe.config
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_9\bin\Debug\Exmpl_9.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_9\bin\Debug\Exmpl_9.pdb
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_9\obj\Debug\Exmpl_9.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_9\obj\Debug\Exmpl_9.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_9\obj\Debug\Exmpl_9.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#\Exmpl_9\obj\Debug\Exmpl_9.pdb

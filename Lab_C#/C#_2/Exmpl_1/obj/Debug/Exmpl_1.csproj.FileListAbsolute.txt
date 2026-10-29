@@ -1,0 +1,9 @@
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\bin\Debug\Exmpl_1.exe.config
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\bin\Debug\Exmpl_1.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\bin\Debug\Exmpl_1.pdb
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\obj\Debug\Exmpl_1.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\obj\Debug\Exmpl_1.Properties.Resources.resources
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\obj\Debug\Exmpl_1.csproj.GenerateResource.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\obj\Debug\Exmpl_1.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\obj\Debug\Exmpl_1.exe
+C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_1\obj\Debug\Exmpl_1.pdb

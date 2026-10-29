@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB3D0232-B1F1-4534-AC35-393D37528B1F}|Exmpl_8\\Exmpl_8.csproj|c:\\users\\maksim\\desktop\\c#\\lab_c#\\c#\\exmpl_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB3D0232-B1F1-4534-AC35-393D37528B1F}|Exmpl_8\\Exmpl_8.csproj|solutionrelative:exmpl_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C379CD-DB21-4455-AB83-9DDAD7722AC4}|Exmpl_9\\Exmpl_9.csproj|C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#\\exmpl_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C379CD-DB21-4455-AB83-9DDAD7722AC4}|Exmpl_9\\Exmpl_9.csproj|solutionrelative:exmpl_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#\\Exmpl_9\\Program.cs",
+              "RelativeDocumentMoniker": "Exmpl_9\\Program.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#\\Exmpl_9\\Program.cs",
+              "RelativeToolTip": "Exmpl_9\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T06:55:09.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#\\Exmpl_8\\Program.cs",
+              "RelativeDocumentMoniker": "Exmpl_8\\Program.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#\\Exmpl_8\\Program.cs",
+              "RelativeToolTip": "Exmpl_8\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T06:54:32.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

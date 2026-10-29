@@ -1,0 +1,7 @@
+C:\Lab_C#\C#\Exmpl_2\bin\Debug\Exmpl_2.exe.config
+C:\Lab_C#\C#\Exmpl_2\bin\Debug\Exmpl_2.exe
+C:\Lab_C#\C#\Exmpl_2\bin\Debug\Exmpl_2.pdb
+C:\Lab_C#\C#\Exmpl_2\obj\Debug\Exmpl_2.csproj.AssemblyReference.cache
+C:\Lab_C#\C#\Exmpl_2\obj\Debug\Exmpl_2.csproj.CoreCompileInputs.cache
+C:\Lab_C#\C#\Exmpl_2\obj\Debug\Exmpl_2.exe
+C:\Lab_C#\C#\Exmpl_2\obj\Debug\Exmpl_2.pdb

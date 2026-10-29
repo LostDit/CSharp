@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\exmpl_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|solutionrelative:exmpl_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\exmpl_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|solutionrelative:exmpl_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FBB77-085C-4994-A211-50551D5447D2}|Exmpl_2\\Exmpl_2.csproj|c:\\users\\maksim\\desktop\\c#\\lab_c#\\c#_2\\exmpl_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FBB77-085C-4994-A211-50551D5447D2}|Exmpl_2\\Exmpl_2.csproj|solutionrelative:exmpl_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FBB77-085C-4994-A211-50551D5447D2}|Exmpl_2\\Exmpl_2.csproj|c:\\users\\maksim\\desktop\\c#\\lab_c#\\c#_2\\exmpl_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FBB77-085C-4994-A211-50551D5447D2}|Exmpl_2\\Exmpl_2.csproj|solutionrelative:exmpl_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|c:\\users\\maksim\\desktop\\c#\\lab_c#\\c#_2\\exmpl_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|solutionrelative:exmpl_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\exmpl_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|solutionrelative:exmpl_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FBB77-085C-4994-A211-50551D5447D2}|Exmpl_2\\Exmpl_2.csproj|c:\\users\\maksim\\desktop\\c#\\lab_c#\\c#_2\\exmpl_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00FBB77-085C-4994-A211-50551D5447D2}|Exmpl_2\\Exmpl_2.csproj|solutionrelative:exmpl_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|c:\\users\\maksim\\desktop\\c#\\lab_c#\\c#_2\\exmpl_1\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BAE2C0-8717-4E90-AF98-7D8A3779A7A0}|Exmpl_1\\Exmpl_1.csproj|solutionrelative:exmpl_1\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_2\\Program.cs",
+              "RelativeDocumentMoniker": "Exmpl_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_2\\Program.cs",
+              "RelativeToolTip": "Exmpl_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T10:15:45.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Exmpl_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_2\\Form1.cs",
+              "RelativeToolTip": "Exmpl_2\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:52:58.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Exmpl_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Exmpl_2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:51:42.139Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Exmpl_1\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Exmpl_1\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:23:35.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Exmpl_1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Form1.Designer.cs",
+              "RelativeToolTip": "Exmpl_1\\Form1.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T21:03:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Exmpl_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Form1.cs",
+              "RelativeToolTip": "Exmpl_1\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T21:01:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Program.cs",
+              "RelativeDocumentMoniker": "Exmpl_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Program.cs",
+              "RelativeToolTip": "Exmpl_1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T21:01:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Exmpl_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\C#\\Lab_C#\\C#_2\\Exmpl_1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Exmpl_1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:58:42.648Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

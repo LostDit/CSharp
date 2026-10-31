@@ -1,0 +1,9 @@
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\bin\Debug\Exmpl_4.exe.config
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\bin\Debug\Exmpl_4.exe
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\bin\Debug\Exmpl_4.pdb
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\obj\Debug\Exmpl_4.csproj.AssemblyReference.cache
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\obj\Debug\Exmpl_4.Properties.Resources.resources
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\obj\Debug\Exmpl_4.csproj.GenerateResource.cache
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\obj\Debug\Exmpl_4.csproj.CoreCompileInputs.cache
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\obj\Debug\Exmpl_4.exe
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_4\obj\Debug\Exmpl_4.pdb

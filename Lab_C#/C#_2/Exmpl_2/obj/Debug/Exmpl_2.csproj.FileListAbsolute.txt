@@ -7,3 +7,12 @@ C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.csproj.Generate
 C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.csproj.CoreCompileInputs.cache
 C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.exe
 C:\Users\Maksim\Desktop\C#\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.pdb
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\bin\Debug\Exmpl_2.exe.config
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\bin\Debug\Exmpl_2.exe
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\bin\Debug\Exmpl_2.pdb
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.csproj.AssemblyReference.cache
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.Properties.Resources.resources
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.csproj.GenerateResource.cache
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.csproj.CoreCompileInputs.cache
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.exe
+C:\Users\LostDead\Desktop\CSharp\Lab_C#\C#_2\Exmpl_2\obj\Debug\Exmpl_2.pdb
